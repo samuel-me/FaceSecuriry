@@ -89,14 +89,5 @@ Then open your browser and navigate to `http://127.0.0.1:5000`
 
 ---
 
-## 🔮 Future Improvements
-- Add a face registration interface via the web app
-- Integrate email notifications for attendance summaries
-- Add database support (PostgreSQL/SQLite) instead of CSV
-- Deploy to cloud (AWS / Heroku)
-
----
 
 
-
-Would you like me to save this as a downloadable file?
